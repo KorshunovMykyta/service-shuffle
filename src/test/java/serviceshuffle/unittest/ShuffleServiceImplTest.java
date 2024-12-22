@@ -1,4 +1,4 @@
-package serviceshuffle;
+package serviceshuffle.unittest;
 
 
 import serviceshuffle.client.LogClient;
